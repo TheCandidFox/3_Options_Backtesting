@@ -4,8 +4,8 @@ import datetime
 import csv
 
 # === CONFIGURATION ===
-TD_API_KEY = "YOUR_TD_API_KEY"
-ACCESS_TOKEN = "YOUR_OAUTH_BEARER_TOKEN"
+TD_API_KEY = "XAuRzDiRG9z1jYnz8gkwcKZa6k3HHAVv"
+ACCESS_TOKEN = "pHToyhfrHvtwrHMA"
 BASE_URL = "https://api.tdameritrade.com/v1"
 
 # Define your option input
