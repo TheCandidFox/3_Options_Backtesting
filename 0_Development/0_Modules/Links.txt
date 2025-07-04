@@ -15,7 +15,7 @@ SCWHAB LOGINS:
     Streaming               =   https://www.youtube.com/watch?v=t7F2dUecgWc
     Oauth / Init            =   https://www.youtube.com/watch?v=kHbom0KIJwc
     GitHub                  =   https://github.com/tylerebowers/Schwabdev
-
+    HTML Guide              =   https://tylerebowers.github.io/Schwabdev/?source=pages%2Fstream.html
 
 
 
