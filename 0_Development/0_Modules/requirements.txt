@@ -1,5 +1,11 @@
 certifi==2025.6.15
+cffi==1.17.1
 charset-normalizer==3.4.2
+cryptography==45.0.5
 idna==3.10
+pycparser==2.22
 requests==2.32.4
+schwabdev==2.5.0
+tzdata==2025.2
 urllib3==2.5.0
+websockets==15.0.1
