@@ -12,10 +12,13 @@ idna==3.10
 jmespath==1.0.1
 kiwisolver==1.4.8
 matplotlib==3.10.3
+narwhals==1.45.0
 numpy==2.3.1
 packaging==25.0
 pandas==2.3.0
 pillow==11.3.0
+plotly==6.2.0
+polygon-api-client==1.14.6
 pycparser==2.22
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
@@ -26,4 +29,4 @@ schwabdev==2.5.0
 six==1.17.0
 tzdata==2025.2
 urllib3==2.5.0
-websockets==15.0.1
+websockets==14.2
