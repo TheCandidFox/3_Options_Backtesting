@@ -3,7 +3,12 @@ import base64
 import os
 import json
 
-from Utils import Options_Utils as mine
+
+import sys
+
+project_root =  os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(project_root)
+from Shared_Functions import Options_Utils as mine
 
 
 
