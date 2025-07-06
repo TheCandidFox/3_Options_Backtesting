@@ -20,6 +20,8 @@ SCWHAB LOGINS:
 
 
 
-
+***** Polygon Info *****
+    GitHub                  =   https://github.com/polygon-io/client-python
+    Backtesting Init        =   https://www.youtube.com/watch?v=DiGtnJtoErk
 
 UNEXPLORED (UNOFFICIAL) Schwab-py       =   https://pypi.org/project/schwab-py/
