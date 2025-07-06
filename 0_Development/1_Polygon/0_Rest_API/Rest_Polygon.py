@@ -30,7 +30,7 @@ fig = go.Figure(data=[go.Candlestick(
 )])
 
 fig.update_layout(title='Candlestick Chart', xaxis_title='Time', yaxis_title='Price')
-fig.write_html("chart1.html")
+fig.write_html("chart.html")
 
 
 
