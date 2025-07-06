@@ -3,21 +3,12 @@ import base64
 import os
 import json
 
-def load_secrets():
-    # Get absolute path to the current file
-    current_dir = os.path.dirname(os.path.abspath(__file__))
+from Utils import Options_Utils as mine
 
-    # Go up two levels to reach zero_fulfillment/
-    secrets_path = os.path.join(current_dir, '..', '..', 'secrets.json')
-    secrets_path = os.path.abspath(secrets_path)  # resolve to full path
 
-    with open(secrets_path, 'r') as f:
-        secrets = json.load(f)
-
-    return secrets
 
 # Load the secrets
-secrets = load_secrets()
+secrets = mine.load_secrets()
 
 APP_KEY = secrets["SCHWAB_APP_KEY"]
 APP_SECRRET = secrets["SCHWAB_APP_SECRET"]

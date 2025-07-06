@@ -2,7 +2,11 @@ from polygon import RESTClient
 import plotly.graph_objects as go
 from datetime import datetime
 
-client = RESTClient(api_key="qkfxp0JUT_a24IQODdlWvZLBs0DIrNtb")
+from Utils import Options_Utils as mine
+keys = mine.load_secrets()
+API_KEY = keys["POLYGON_REST_API_KEY"]
+
+client = RESTClient(api_key=API_KEY)
 
 
 ticker = "AAPL"
