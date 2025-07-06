@@ -1,0 +1,25 @@
+SCWHAB LOGINS:
+
+    Account Login           =   https://client.schwab.com/Areas/Access/Login?LoggedOff=y
+    Dev Account Login       =   https://developer.schwab.com/login
+
+
+**Once Logged In
+
+    Trader / Acounts API    =   https://developer.schwab.com/products/trader-api--individual/details/specifications/Retail%2520Trader%2520API%2520Production
+    Market Data API         =   https://developer.schwab.com/products/trader-api--individual/details/specifications/Market%20Data%20Production
+    Streamer API Info       =   https://drive.google.com/file/d/1FEHU8cIeWnWZxn8ZQQeAPdBuc9m_V-or/view?usp=drive_link
+
+
+*****Tyler Bowers Youtubes:*****
+    Streaming               =   https://www.youtube.com/watch?v=t7F2dUecgWc
+    Oauth / Init            =   https://www.youtube.com/watch?v=kHbom0KIJwc
+    GitHub                  =   https://github.com/tylerebowers/Schwabdev
+    HTML Guide              =   https://tylerebowers.github.io/Schwabdev/?source=pages%2Fstream.html
+
+
+
+
+
+
+UNEXPLORED (UNOFFICIAL) Schwab-py       =   https://pypi.org/project/schwab-py/
