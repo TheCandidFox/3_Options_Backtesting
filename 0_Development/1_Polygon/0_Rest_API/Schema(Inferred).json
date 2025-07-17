@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "datetime": { "type": "string", "format": "date-time" },
+    "open": { "type": "number" },
+    "high": { "type": "number" },
+    "low": { "type": "number" },
+    "close": { "type": "number" },
+    "volume": { "type": "integer" },
+    "vwap": { "type": "number" },
+    "transactions": { "type": "integer" },
+    "otc": { "type": ["boolean", "null"] },
+    "raw_timestamp": { "type": "integer" }
+  },
+  "required": ["datetime", "open", "high", "low", "close", "volume"]
+}
